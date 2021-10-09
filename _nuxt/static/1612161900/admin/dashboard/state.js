@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1612161900",layout:"default",error:null,serverRendered:true,routePath:"\u002Fadmin\u002Fdashboard",config:{},apollo:{defaultClient:Object.create(null,{ROOT_QUERY:{writable:true,enumerable:true,value:{"applications({\"limit\":2})":[]}}})}};
